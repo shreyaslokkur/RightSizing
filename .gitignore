@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+
+# Java class files
+*.class
+
+# generated files
+bin/
+
+
+static/portfolios/*.xls
+
+target/
